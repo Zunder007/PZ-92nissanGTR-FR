@@ -1,5 +1,5 @@
 IG_UI_FR = {
-	IGUI_VehicleName92nissanGTR = "'92 NISSAN Skyline GT-R (R32)",
+	IGUI_VehicleName92nissanGTR = "'92 Nissan Skyline GT-R (R32)",
 
 	IGUI_VehiclePartR32Trunk = "Coffre",
 	IGUI_VehiclePartR32Muffler = "Silencieux",
@@ -17,5 +17,5 @@ IG_UI_FR = {
 	IGUI_VehiclePartR32WindshieldArmor = "Blindage de Pare-brise",
 	IGUI_VehiclePartR32RearWindshieldArmor = "Blindage de Pare-brise arrière",
 
-	IGUI_CraftCategory_R32 = "'92 NISSAN Skyline GT-R (R32)",
+	IGUI_CraftCategory_R32 = "'92 Nissan Skyline GT-R (R32)",
 }
