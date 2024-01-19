@@ -1,0 +1,21 @@
+IG_UI_FR = {
+	IGUI_VehicleName92nissanGTR = "'92 NISSAN Skyline GT-R (R32)",
+
+	IGUI_VehiclePartR32Trunk = "Coffre",
+	IGUI_VehiclePartR32Muffler = "Silencieux",
+	IGUI_VehiclePartR32Bumper = "Pare-chocs avant",
+	IGUI_VehiclePartR32BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartR32Sideskirts = "Jupes latérales",
+	IGUI_VehiclePartR32Spoiler = "Aileron",
+	IGUI_VehiclePartR32Spare = "Compartiment pour roue de secours",
+
+	IGUI_VehiclePartR32DoorFrontLeftArmor = "Blindage de Portière avant gauche",
+	IGUI_VehiclePartR32DoorFrontRightArmor = "Blindage de Portière avant droite",
+	IGUI_VehiclePartR32WindowRearLeftArmor = "Blindage de Vitre arrière gauche",
+	IGUI_VehiclePartR32WindowRearRightArmor = "Blindage de Vitre arrière droite",
+
+	IGUI_VehiclePartR32WindshieldArmor = "Blindage de Pare-brise",
+	IGUI_VehiclePartR32RearWindshieldArmor = "Blindage de Pare-brise arrière",
+
+	IGUI_CraftCategory_R32 = "'92 NISSAN Skyline GT-R (R32)",
+}
