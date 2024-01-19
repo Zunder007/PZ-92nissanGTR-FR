@@ -1,0 +1,15 @@
+Recipes_FR = {
+	Recipe_Make_R32_Armored_Sideskirts_Bullbar = "Fabriquer Jupes latérales blindées",
+	Recipe_Make_R32_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_R32_Front_Door_Armor = "Fabriquer Blindage de Portière avant",
+	Recipe_Make_R32_Rear_Bullbar = "Fabriquer Pare-buffle arrière",
+	Recipe_Make_R32_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_R32_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_R32_SideWindow = "Fabriquer Vitre latérale",
+	Recipe_Make_R32_SideWindow_1 = "Fabriquer Vitre latérale",
+	Recipe_Make_R32_Stock_Muffler = "Fabriquer Silencieux d'origine",
+	Recipe_Make_R32_Type1_Muffler = "Fabriquer Silencieux",
+	Recipe_Make_R32_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_R32_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+	Recipe_Make_R32_Windshield_Rear = "Fabriquer Pare-brise arrière",
+}
